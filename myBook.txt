@@ -1,21 +1,2 @@
 Hello world!
-
-
-
-
-
-
-
-
-
-------------------------------------------------------------------------------
-                                    Git Hub
-------------------------------------------------------------------------------
-● ls - list	
-● git init - initializing the git version controlling system into your project
-● git status - show current version status
-● git add file.name - add to file for tracking
-● 
-● 
-● 
-● 
+Welcome to IJSE
